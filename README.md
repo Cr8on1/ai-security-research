@@ -37,6 +37,12 @@ Introduces Decomposition Vulnerability as the first system-level paper in the se
 
 ---
 
+**[Identity Dissolution: The Absence of a Persistent Identity Substrate as a Structural Mechanism for Context-Dependent Identity Instability in Memory-Augmented Large Language Model Agents](https://zenodo.org/records/20684024)**
+Zenodo · June 2026 · DOI: 10.5281/zenodo.20684024 · v0.1
+Introduces Identity Dissolution as the first memory-augmented deployment failure in the series. Proposes that transformer-based agents lack a persistent identity substrate, causing identity to be reconstructed from context rather than maintained as a durable property across deployment horizons. Introduces the Deployment Horizon Prediction: identity drift increases with deployment length even when memory accuracy remains high, distinguishing this failure class from memory corruption and retrieval degradation accounts.
+
+---
+
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/creighton-baxter-a92926359)
