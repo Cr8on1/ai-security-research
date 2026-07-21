@@ -7,6 +7,12 @@ I research the architectural mechanisms that make LLM-based systems structurally
 
 ## Published Research
 
+**[The Samata Latch: Designed Internal State for In-Context Binding Integrity](https://zenodo.org/records/21464368)**
+Zenodo · July 2026 · DOI: 10.5281/zenodo.21464368 · v1
+First constructive paper in the series: where the prior six diagnose missing invariants, the Samata Latch proposes and tests a fix. When a context window holds two same-privilege assignments to one binding, standard transformers resolve the conflict silently and position-locked — last wins — measured with a pre-registered inference battery across six open-weights models and three framings. Proposes the latch: a small, designed, trained-in write-once internal state with structural (symbolic) readout. At toy scale it yields zero breaches across 72 injected cells at 4.4–8.8× less training, with a per-example-verifiable record of the executed binding, and demonstrates that competence does not imply resistance. Discloses 16 wrong-or-partial pre-registered predictions alongside what survived.
+
+---
+
 **[Coherence Compliance Vulnerability (CCV) — Multi-Turn Framework Induction Producing Model Manipulation in Large Language Models](https://zenodo.org/records/20680456)**
 Zenodo · June 2026 · DOI: 10.5281/zenodo.20680456 · v3
 Documents a training-level behavioral vulnerability whereby coherence optimization overrides safety alignment through multi-turn framework induction. Six sessions on Microsoft Copilot across philosophical, narrative, and emotional induction approaches. Cross-architecture validation via Path Drift Induction (arXiv:2510.10013) and DeepContext (arXiv:2602.16935). Responsible disclosure filed with Microsoft MSRC (VULN-192099, VULN-192842).
