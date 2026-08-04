@@ -1,7 +1,7 @@
 # Creighton R. Baxter
 **AI Security Researcher | Behavioral & Architectural Vulnerability Research | AI Agent Evaluation**
 
-I research the architectural mechanisms that make LLM-based systems structurally vulnerable to manipulation and goal drift — independent of traditional attack surfaces like prompt injection or jailbreaking.
+I research the architectural mechanisms that make LLM-based systems structurally vulnerable to manipulation and goal drift, independent of traditional attack surfaces like prompt injection or jailbreaking.
 
 ---
 
